@@ -34,11 +34,25 @@ namespace Teht002
             Console.WriteLine(itemFirst1.Level);
             Item itemFirst2 = FirstItemWithLinq(player);
             Console.WriteLine(itemFirst2.Level);
+
+            // TEHT 5
+            ProcessEachItem(player, PrintItem);
+
+            // TEHT 6
+            Action<Item> process = (item) => 
+                Console.WriteLine("GUID: " + item.Id + ", Level: " + item.Level);
+            ProcessEachItem(player, process);
         }
 
         // TEHT 5
-        void ProcessEachItem(Player player, Action<Item> process){
-            
+        static void ProcessEachItem(Player player, Action<Item> process){
+            foreach(Item i in player.Items) {
+                process(i);
+            }
+        }
+
+        static void PrintItem(Item item) {
+            Console.WriteLine("GUID: " + item.Id + ", Level: " + item.Level);
         }
 
         // TEHT 4
@@ -77,7 +91,7 @@ namespace Teht002
 
         // TEHT 1
         static void createPlayers(List<Player> playerList) {
-            for (int i = 0; i < 1000; i++) {
+            for (int i = 0; i < 1000000; i++) {
                 Player newPlayer = new Player();
                 newPlayer.Id = Guid.NewGuid();
                 playerList.Add(newPlayer);
@@ -104,6 +118,6 @@ namespace Teht002
             }
         }
 
-        public delegate void PrintItem(Item item);
+        
     }
 }
