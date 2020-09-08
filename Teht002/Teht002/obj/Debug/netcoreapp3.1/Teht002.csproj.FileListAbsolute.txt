@@ -1,0 +1,13 @@
+E:\Random\Opiskelu\Vuosi 3\Taustajärjestelmät\Teht-2020\Teht002\obj\Debug\netcoreapp3.1\Teht002.csprojAssemblyReference.cache
+E:\Random\Opiskelu\Vuosi 3\Taustajärjestelmät\Teht-2020\Teht002\obj\Debug\netcoreapp3.1\Teht002.AssemblyInfoInputs.cache
+E:\Random\Opiskelu\Vuosi 3\Taustajärjestelmät\Teht-2020\Teht002\obj\Debug\netcoreapp3.1\Teht002.AssemblyInfo.cs
+E:\Random\Opiskelu\Vuosi 3\Taustajärjestelmät\Teht-2020\Teht002\obj\Debug\netcoreapp3.1\Teht002.csproj.CoreCompileInputs.cache
+E:\Random\Opiskelu\Vuosi 3\Taustajärjestelmät\Teht-2020\Teht002\bin\Debug\netcoreapp3.1\Teht002.exe
+E:\Random\Opiskelu\Vuosi 3\Taustajärjestelmät\Teht-2020\Teht002\bin\Debug\netcoreapp3.1\Teht002.deps.json
+E:\Random\Opiskelu\Vuosi 3\Taustajärjestelmät\Teht-2020\Teht002\bin\Debug\netcoreapp3.1\Teht002.runtimeconfig.json
+E:\Random\Opiskelu\Vuosi 3\Taustajärjestelmät\Teht-2020\Teht002\bin\Debug\netcoreapp3.1\Teht002.runtimeconfig.dev.json
+E:\Random\Opiskelu\Vuosi 3\Taustajärjestelmät\Teht-2020\Teht002\bin\Debug\netcoreapp3.1\Teht002.dll
+E:\Random\Opiskelu\Vuosi 3\Taustajärjestelmät\Teht-2020\Teht002\bin\Debug\netcoreapp3.1\Teht002.pdb
+E:\Random\Opiskelu\Vuosi 3\Taustajärjestelmät\Teht-2020\Teht002\obj\Debug\netcoreapp3.1\Teht002.dll
+E:\Random\Opiskelu\Vuosi 3\Taustajärjestelmät\Teht-2020\Teht002\obj\Debug\netcoreapp3.1\Teht002.pdb
+E:\Random\Opiskelu\Vuosi 3\Taustajärjestelmät\Teht-2020\Teht002\obj\Debug\netcoreapp3.1\Teht002.genruntimeconfig.cache
